@@ -21,14 +21,13 @@ Science-based anxiety & panic relief mobile app built to help people calm anxiet
 ## Download
 
 ### iOS App Store
-https://apps.apple.com/ae/app/anxiety-checklist-calm-mind/id6749352305
+[https://apps.apple.com/ae/app/anxiety-checklist-calm-mind/id6749352305](https://apps.apple.com/ae/app/anxiety-checklist-calm-mind/id6749352305)
 
 ### Android Google Play
-https://play.google.com/store/apps/details?id=com.anxiety.checklist&hl=en
+[https://play.google.com/store/apps/details?id=com.anxiety.checklist&hl=en](https://play.google.com/store/apps/details?id=com.anxiety.checklist&hl=en)
 
 ## Website
-
-https://anxietychecklist.com
+[https://anxietychecklist.com](https://anxietychecklist.com)
 
 ## About
 
